@@ -42,6 +42,15 @@ h2#experience {
   clear: left;
 }
 
+h3 + p {
+  border-bottom: 1px dashed #eaecef;
+  padding-bottom: 1em;
+}
+
+h3#front-end-engineer-wellist-april---june-2016 {
+  page-break-before: always;
+}
+
 h3#flash-consultant-viximo-february---may-2011,
 h3#flash-consultant-viximo-february---may-2011 + p,
 h3#senior-software-developer-macguffin-games-june---november-2010,
