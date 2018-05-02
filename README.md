@@ -1,6 +1,6 @@
 # Justin C. Rounds, Front-End Developer
 
-*80 Border St., Unit #114, Boston MA 02128 • 617-584-9018 • <anism@justincrounds.org> • <http://justincrounds.org/>*
+*80 Border St., Unit #114, Boston MA 02128 • 617-584-9018 • <anism@justincrounds.org> • <https://github.com/justin-c-rounds>*
 
 Software engineer, team leader, game developer, and 2d/3d artist with extensive experience crafting user interfaces for mobile and desktop web applications. Passionate about UX. Loves JavaScript.
 

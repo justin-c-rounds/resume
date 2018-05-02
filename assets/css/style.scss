@@ -24,11 +24,16 @@ h1#justin-c-rounds-front-end-developer {
 }
 
 em {
-  font-size: 85%;
+  font-size: 80%;
 }
 
 a {
   color: rgb(36, 41, 46);
+  white-space: nowrap;
+}
+
+p {
+  text-align: justify;
 }
 
 h2#expertise + ul li {
