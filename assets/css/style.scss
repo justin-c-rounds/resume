@@ -3,10 +3,58 @@
 
 @import "{{ site.theme }}";
 
+.markdown-body {
+  @media print {
+    font-size: 14px;
+  }
+  h3 {
+    @media print {
+      font-size: 1.1em;
+    }
+  }
+}
+
 h1 {
   display: none;
 }
 
 h1#justin-c-rounds-front-end-developer {
   display: block;
+  margin-top: 0;
+}
+
+em {
+  white-space: nowrap;
+  @media print {
+    font-size: 85%;
+  }
+}
+
+a {
+  color: rgb(36, 41, 46);
+}
+
+h2#expertise + ul li {
+  width: 50%;
+  float: left;
+  margin-top: 0.25em;
+}
+
+h3#flash-consultant-viximo-february---may-2011,
+h3#flash-consultant-viximo-february---may-2011 + p,
+h3#senior-software-developer-macguffin-games-june---november-2010,
+h3#senior-software-developer-macguffin-games-june---november-2010 + p,
+h3#president-jawbreaker-interactive-march-2008---june-2010,
+h3#president-jawbreaker-interactive-march-2008---june-2010 + p,
+h3#consultant-linden-lab-october-2009---february-2010,
+h3#consultant-linden-lab-october-2009---february-2010 + p,
+h3#software-developer-liquidpixels-august-2007---october-2009,
+h3#software-developer-liquidpixels-august-2007---october-2009 + p,
+h3#project-wonderland-3d-artist-sun-microsystems-september-2007---july-2008,
+h3#project-wonderland-3d-artist-sun-microsystems-september-2007---july-2008 + p,
+h3#web-designer-822-digital-august-2007---july-2008,
+h3#web-designer-822-digital-august-2007---july-2008 + p {
+  @media print {
+    display: none;
+  }
 }
