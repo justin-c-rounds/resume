@@ -16,7 +16,11 @@ Software engineer, team leader, game developer, and 2d/3d artist with extensive 
 
 ## Experience
 
-### Instructional Software Engineer, Northeastern University InkDLab (August 2017 - present)
+### Senior Software Engineer, Tapjoy (August 2018 - present)
+
+Full-stack development across Tapjoy's mobile advertising platform, primarily focused on ad products.
+
+### Instructional Software Engineer, Northeastern University InkDLab (August 2017 - August 2018)
 
 Managing and leading development of web component library (Polymer 2.0) for use in creating applications, interactive classroom modules, and educational games. Training and managing 2-3 junior developers.
 
